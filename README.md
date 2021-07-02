@@ -1,1 +1,2 @@
 # Progressive-budget
+This application is a budget tracker that lets users add and subtract their expenses as well as add there deposits so that they can keep track of their budget. Another thing this application lets you do is, you're able to use this app on or offline. The total is then brought back when back online. This is a progressive web application that uses MongoDB and IndexDB for its full functionality.
